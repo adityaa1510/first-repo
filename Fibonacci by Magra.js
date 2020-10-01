@@ -61,4 +61,5 @@ function fibbmaster() {
 } 
 const fibb = fibbmaster()
 console.log(fibb(x));
-console.log("We did ",cal, " calculations in fibonacci(Recursion & Dynamic Programing) ");
+console.log("We did ",cal, " calculation in fibonacci(Recursion & Dynamic Programing) ");
+
